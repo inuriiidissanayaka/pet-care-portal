@@ -1,0 +1,56 @@
+[
+    {
+        "sid": "1",
+        "Firstname": "Nehan",
+        "Secondname": "Suriyaarachchi",
+        "Email": "nehan@gmail.com",
+        "address": "109 Cambridge court gangarama road piliyandala",
+        "Near City": "piliyandala",
+        "Course": "Computer Science",
+        "Guardian": "Champika Suriyaarachchi",
+        "age": 20,
+        "Subject": "ETF"
+    },
+    {
+        "sid": "2",
+        "Firstname": "ishari",
+        "Secondname": "Gunarathna",
+        "Email": "ishari@gmail.com",
+        "address": "45/ yakkala , gampha ",
+        "Near City": "gampha",
+        "Course": "Computer Science",
+        "Guardian": "Buwaneka Gunarathna",
+        "age": 20,
+        "Subject": "OOP"
+
+    },
+    {
+        "sid": "3",
+        "Firstname": "rasheel",
+        "Secondname": "Kudhoos",
+        "Email": "rasheel@gmail.com",
+        "address": "hospital road , kandy  ",
+        "Near City": "kandy",
+        "Course": "Computer Science",
+        "Guardian": "nazeer kudhoos",
+        "age": 20,
+        "Subject": "SE"
+    },
+    {
+        "sid": "4",
+        "Firstname": "theuveni",
+        "Secondname": "kongahage",
+        "Email": "thevni@gmail.com",
+        "address": "45, kalubowila ",
+        "Near City": "kohuwala",
+        "Course": "Computer Science",
+        "Guardian": "Lasantha Kongahage",
+        "age": 26,
+        "Subject": "WAD"
+    },
+    {
+
+    }
+    
+
+]
